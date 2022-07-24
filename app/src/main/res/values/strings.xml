@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Problem Statement L09-10</string>
+    <string name="title">Song Title</string>
+    <string name="enterTitle">Enter song title here</string>
+    <string name="singer">Singers</string>
+    <string name="enterSinger">Enter singers name here</string>
+    <string name="year">Year</string>
+    <string name="enterYear">Enter year of release here</string>
+    <string name="star">Stars</string>
+    <string name="star1">1</string>
+    <string name="star2">2</string>
+    <string name="star3">3</string>
+    <string name="star4">4</string>
+    <string name="star5">5</string>
+    <string name="showFilter">Filter</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
